@@ -50,5 +50,9 @@ This dashboard is designed to answer the following business and operational ques
 - **DAX** for calculated columns and measures
 - **Power Query** for data transformation and cleaning
 
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/9556de20-e4bc-4d04-9ad3-c8939fbeb272)
+
 
 
